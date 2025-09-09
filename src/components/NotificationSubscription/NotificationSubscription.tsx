@@ -19,7 +19,7 @@ const VAPID_PUBLIC_KEY =
   "BO7SwoP8qnXyv9GsPL1KIrJH8bg3u7uLUx4L0ssZhc8HUB_4cyMXiRFBpVQnkeoEhHUTfPzAtYusxSK4PfyPh94";
 
 const accessToken =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImNtZXh1cGJwajAwMGJ6YzczMDRiNm80MWIiLCJlbWFpbCI6Im5vdmExQHlvcG1haWwuY29tIiwicm9sZSI6IlBMQVlFUiIsImlhdCI6MTc1NjYxMjA2OCwiZXhwIjoxNzU2Njk4NDY4fQ.fbByJoxlPC2Fh4tDyqHHasXsmBPcgCSIMY76-zOJP4Q"; // Placeholder for actual access token
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4YjU2NjU2NzIwMTU1NTQwOWM0ZTBhMyIsImVtYWlsIjoiaGFzYW4zQHlvcG1haWwuY29tIiwicm9sZSI6IlBMQVlFUiIsImlhdCI6MTc1Njk1ODMwMiwiZXhwIjoxNzU3MDQ0NzAyfQ.BQt-OHuqMrgT2sIOAC9diT3WeCuFcjriUcd4p3-TAO0"; // Placeholder for actual access token
 
 const NotificationSubscription = () => {
   const [subscribed, setSubscribed] = useState(false);
